@@ -13,7 +13,7 @@ C++ language
 ****
 - **PR 1 : Fundamental Booster**
 ***
-- **CH 2 : Wxpression And Functions :**
+- **CH 2 : Expression And Functions :**
     
     - Special assignment expressions
     - Reference variable
