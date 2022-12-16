@@ -4,26 +4,25 @@ using namespace std;
 class time {
 	
 	private : 
-		int s,m,h;
+		int s=0,m=0,h=0,t=0;
 		
 	public :
 		
 		void getdata() {
 			
 			cout << "Enter Second : ";
-			cin  >> s;
+			cin  >> t;
 			
 		}
 		
 		void putdata() {
 			
-			while(s>=3600) {
-				m = s-3600;
-			}
-			while(m>=60) {
-				h = m-60;
-			}
-			s = s % 3600;
+			
+			h=t/3600;
+			t=t%3600;
+			m=t/60;
+			t=t%60;
+			s=t;
 			
 			cout << h << " : " << m << " : " << s << endl;
 			
