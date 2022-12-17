@@ -21,7 +21,7 @@ attributes:
 
 **<u>Output :</u>**
 
-![imeage not loaded]()
+![imeage not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch5/lec1/images/1.png)
 
 ***
 ***
@@ -42,7 +42,7 @@ below mentioned attributes:
 
 **<u>Output :</u>**
 
-![imeage not loaded]()
+![imeage not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch5/lec1/images/2.png)
 
 ***
 ***
