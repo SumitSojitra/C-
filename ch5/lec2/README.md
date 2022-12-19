@@ -22,7 +22,7 @@ member by including below mentioned attributes:
 
 **<u>Output</u> :**
 
-![image not Loaded]()
+![image not Loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch5/lec2/images/1.png)
 
 ***
 ***
