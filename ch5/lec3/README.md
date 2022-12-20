@@ -14,7 +14,7 @@ HH:MM:SS.
 
 **<u>Output</u> :**
 
-![image not Loaded]()
+![image not Loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch5/lec3/images/1.png)
 
 ***
 ***
