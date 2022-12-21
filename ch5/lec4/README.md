@@ -23,7 +23,7 @@ imported per year)
 
 **<u>Output</u> :**
 
-![image not Loaded]()
+![image not Loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch5/lec4/images/1.png)
 
 ***
 ***
@@ -44,7 +44,7 @@ constructor by including below mentioned attributes:
 
 **<u>Output</u> :**
 
-![image not Loaded]()
+![image not Loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch5/lec4/images/2.png)
 
 ***
 ***
