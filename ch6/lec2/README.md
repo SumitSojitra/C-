@@ -18,7 +18,7 @@ classes
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch6/lec2/images/1.png)
 
 ***
 ***
@@ -31,7 +31,7 @@ inheriting constructors in hybrid inheritance.
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch6/lec2/images/2.png)
 
 ***
 ***
