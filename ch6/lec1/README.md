@@ -17,7 +17,7 @@ getData() methods
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch6/lec1/images/1.png)
 
 ***
 ***
@@ -37,7 +37,7 @@ method
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch6/lec1/images/2.png)
 
 ***
 ***
