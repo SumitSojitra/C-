@@ -9,7 +9,7 @@ PR 5 : Heritage
 
 **<u>Output</u> :**
 
-![Image not loaded]()
+![Image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/pr5/images/1.png)
 
 ***
 ***
@@ -21,7 +21,7 @@ PR 5 : Heritage
 
 **<u>Output</u> :**
 
-![Image not loaded]()
+![Image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/pr5/images/2.png)
 
 *** 
 ***
@@ -33,7 +33,7 @@ PR 5 : Heritage
 
 **<u>Output</u> :**
 
-![Image not loaded]()
+![Image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/pr5/images/3.png)
 
 *** 
 ***
@@ -45,7 +45,7 @@ PR 5 : Heritage
 
 **<u>Output</u> :**
 
-![Image not loaded]()
+![Image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/pr5/images/4.png)
 
 *** 
 ***
@@ -57,7 +57,7 @@ PR 5 : Heritage
 
 **<u>Output</u> :**
 
-![Image not loaded]()
+![Image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/pr5/images/5.png)
 
 *** 
 ***
@@ -69,7 +69,7 @@ PR 5 : Heritage
 
 **<u>Output</u> :**
 
-![Image not loaded]()
+![Image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/pr5/images/6.png)
 
 *** 
 ***
