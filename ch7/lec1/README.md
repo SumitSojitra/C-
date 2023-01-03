@@ -20,7 +20,7 @@ class
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/ch7/lec1/images/1.png)
 
 ***
 ***
