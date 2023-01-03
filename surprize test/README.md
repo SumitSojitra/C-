@@ -9,7 +9,7 @@ SURPIZE TEST
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/surprize%20test/images/1.png)
 
 ***
 ***
@@ -21,7 +21,7 @@ SURPIZE TEST
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/surprize%20test/images/2.png)
 
 ***
 ***
@@ -33,7 +33,7 @@ SURPIZE TEST
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/surprize%20test/images/3.png)
 
 ***
 ***
@@ -45,7 +45,7 @@ SURPIZE TEST
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/surprize%20test/images/4.png)
 
 ***
 ***
@@ -66,7 +66,11 @@ use every possible functionalities.
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/surprize%20test/images/5_1.png)
+
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/surprize%20test/images/5_2.png)
+
+![image not loaded](https://github.com/SumitSojitra/Cpp_language/blob/master/surprize%20test/images/5_3.png)
 
 ***
 ***
