@@ -18,7 +18,8 @@ calculate() to perform all above operations
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://user-images.githubusercontent.com/114163699/211460559-3fcfc64f-e4e9-4538-a136-b0cc0da244dc.png)
+
 
 ***
 ***
