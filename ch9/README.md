@@ -18,7 +18,7 @@ an uppercase letter
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://user-images.githubusercontent.com/114163699/211462037-28c95765-23ae-4a24-baac-0561f0bab87f.png)
 
 ***
 ***
